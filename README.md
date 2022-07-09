@@ -119,13 +119,13 @@
 ## Hosted Link 
 https://watch-party-project.web.app/
 
-Link to Backend Repo: https://github.com/ninad-0408/watchparty_server
+Link to Backend Repo: https://github.com/akshat45/watchparty_server
 ## Instructions for local setup
 
 Clone this repo using
 
 ```bash
-git clone https://github.com/ninad-0408/watchparty_frontend.git
+git clone https://github.com/akshat45/watchparty_frontend.git
 cd watchparty_frontend
 ```
 
